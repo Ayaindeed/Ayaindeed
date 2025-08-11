@@ -1,4 +1,6 @@
 # Hiya, I'm Ayaindeed 👋
+[![Github](https://img.shields.io/github/followers/Ayaindeed?label=Follow&style=social)](https://github.com/Ayaindeed)
+
 
 **Data Wrangler | Query Tamer | Curious Mind**
 
