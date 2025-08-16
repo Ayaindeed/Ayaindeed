@@ -11,8 +11,6 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 
 ## Tools of the Trade
 
-## 🛠 Tools of the Trade
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,postgres,aws,gcp,bash,tensorflow,pytorch,matplotlib" />
 </div>
