@@ -12,7 +12,7 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 ## Tools of the Trade
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,postgres,aws,gcp,bash,tensorflow,pytorch,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,scala,js,ts,postgres,aws,gcp,kafka,rabbitmq,yarn,bash,tensorflow,pytorch,matplotlib" />
 </div>
 
 
