@@ -5,8 +5,6 @@
 </h1>
 
 
-**Data Wrangler | Query Tamer | Curious Mind**
-
 I love exploring patterns, wrangling complex datasets, and turning queries into answers. Whether it's taming messy data or building insightful pipelines, I'm happiest knee-deep in information.
 
 ---
