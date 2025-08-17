@@ -15,7 +15,6 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
   <img src="https://skillicons.dev/icons?i=python,r,java,scala,js,ts,postgres,aws,gcp,kafka,rabbitmq,yarn,bash,tensorflow,pytorch,matplotlib" />
 </div>
 
-
 ## About Me
 - Data enthusiast with a flair for structured chaos
 - Always curious, always learning
