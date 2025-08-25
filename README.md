@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ayaindeed.Ayaindeed" />
-
 <h1 align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hiya!%20👋🏻%20I'm%20Aya!&width=800&height=150&bg=transparent" />
 </h1>
