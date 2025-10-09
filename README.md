@@ -2,7 +2,6 @@
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hiya!%20👋🏻%20I'm%20Aya!&width=800&height=150&bg=transparent" />
 </h1>
 
-
 I love exploring patterns, wrangling complex datasets, and turning queries into answers. Whether it's taming messy data or building insightful pipelines, I'm happiest knee-deep in information.
 
 ---
