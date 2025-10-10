@@ -3,6 +3,7 @@
 </h1>
 
 I am driven by exploratory data analysis, pattern recognition, and converting business Qs into data-driven solutions. I enjoy the entire workflow from data discovery through feature engineering to model-ready datasets.
+
 ---
 
 ## Tools of the Trade
